@@ -1,0 +1,9 @@
+Aleman/333/ExtraProgramatica
+Algebra/777/Obligatoria
+Calculo/555/Obligatoria
+Computacion/111/ExtraProgramatica
+nombreNew/888/Obligatoria
+Fisica3/99922/Obligatoria
+Ingles/222/ExtraProgramatica
+Natacion/444/ExtraProgramatica
+Quimica/999/Obligatoria
